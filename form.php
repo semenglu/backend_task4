@@ -19,13 +19,8 @@
 <body>
     <div class="w-100 bg-dark">
         <div class="container p-5 mb-2 text-white">
-            <div class="row">
-                <div class="col">
-                    <img src="images/BingChilling.jpg" alt="Avatar" class="avatar">
-                </div>
-                <div class="col-8 me-4 align-self-center">
-                    <h1>Superhero Registration</h1>
-                </div>
+            <div class="align-self-center">
+                <h1>Superhero Registration</h1>
             </div>
         </div>
     </div>
