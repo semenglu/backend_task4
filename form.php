@@ -95,7 +95,7 @@
     </div>
 
     <footer class="bg-dark text-white p-5">
-        <div>(c) Кан Владимир 2023</div>
+        <div>(c) Семён Глуховский 2023</div>
     </footer>
 </body>
 
