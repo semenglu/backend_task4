@@ -20,7 +20,7 @@
     <div class="w-100 bg-dark">
         <div class="container p-5 mb-2 text-white">
             <div class="align-self-center">
-                <h1>Superhero Registration</h1>
+                <h1> Registration</h1>
             </div>
         </div>
     </div>
